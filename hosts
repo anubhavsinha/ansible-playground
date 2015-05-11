@@ -1,4 +1,6 @@
 [webservers]
 54.214.137.227
 54.214.135.173
+host_ip_or_domain_name ansible_ssh_private_key_file=/path/to/key.pem
+
 
